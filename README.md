@@ -13,7 +13,7 @@ A simple PowerShell + Batch utility that automates the translation of stringtabl
 
 - Windows with PowerShell 5.0+
 - Internet connection (for live translations via Google Translate)
-- standard DayZ stringtable file. Example is included in this repo with correct headers that you can use to create your own stringtable. 
+- Standard DayZ stringtable file. Example is included in this repo with correct headers that you can use to create your own stringtable. 
 
 ## 🚀 How to Use
 
