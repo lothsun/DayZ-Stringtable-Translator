@@ -1,6 +1,6 @@
 # DayZ Stringtable Translator
 
-A simple PowerShell + Batch utility that automates the translation of stringtable CSV files used in DayZ modding. It reads an input CSV containing language columns and fills in missing translations using Google Translate — outputting a clean, CSV-compliant file with a trailing empty column for compatibility.
+A simple PowerShell + Batch utility that automates the translation of stringtable CSV files used in DayZ modding. It reads an input CSV containing language columns and fills in missing translations using Google Translate — outputting a clean and compatible CSV file structured for use in dayz mods.
 
 ## 📦 Features
 
