@@ -8,7 +8,6 @@ A simple PowerShell + Batch utility that automates the translation of stringtabl
 - Supports multiple languages (mapped to Google Translate's ISO codes)
 - Adds a final empty column to conform to DayZ stringtable format
 - Drag-and-drop interface — just drop your CSV onto a `.bat` file
-- Fully offline-compatible once translations are complete
 
 ## 🛠 Requirements
 
